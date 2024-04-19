@@ -1,6 +1,6 @@
 # Model View Controller Implementation for Sorting Algorithms
 
-This repository contains a Java program that has been redesigned from a previous assignment (PA 01) using the Model View Controller (MVC) design pattern. The project includes QuickSort and BinarySearch sorting algorithms and demonstrates the MVC architecture.
+This is a Java program designed with the Model View Controller (MVC) design pattern. The project includes QuickSort and BinarySearch sorting algorithms and demonstrates the MVC architecture.
 
 ## Project Structure
 
