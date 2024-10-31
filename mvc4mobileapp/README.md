@@ -1,13 +1,14 @@
-# Model View Controller Implementation for Sorting Algorithms
+# Model View Controller Implementation for android mobile apps
 
-This is a Java program designed with the Model View Controller (MVC) design pattern. The project includes QuickSort and BinarySearch sorting algorithms and demonstrates the MVC architecture.
+This is a simple Paasive Model View Controller (MVC) design pattern implemntation for mobile app.
 
 ## Project Structure
 
 The project is structured as follows:
 
-- **`src/main/app/Runner.java`**: The main class for the program.
-- **`src/main/sorting/QuickSort.java`**: QuickSort algorithm implementation.
+- **`passive_mvc'**
+- ***'/app/src/main/java/com/example/simplemvc/*`***: The java source code.
+- **`passive_mvc/gradle/*`**: QuickSort algorithm implementation.
 - **`src/main/sorting/BinarySearch.java`**: BinarySearch algorithm implementation.
 - **`src/main/mvc/Model.java`**: Represents the data, including sorting algorithms and input array.
 - **`src/main/mvc/View.java`**: Displays the original and sorted arrays.
